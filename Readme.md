@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # My first javaScript Tutorial
 ## Encapsulation
     Reduce complexity + increase reusability
