@@ -1,4 +1,4 @@
-# My first javaScrip Tutorial
+# My first javaScript Tutorial
 ## Encapsulation
 ## Abstraction
 ## Inheritance
