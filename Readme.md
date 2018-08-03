@@ -8,10 +8,4 @@
     Eliminate redundant code
 ## Polymorphism
     Refactor ugly switch/case statements
-=======
-# My first javaScript Tutorial
-## Encapsulation
-## Abstraction
-## Inheritance
-## Polymorphism
->>>>>>> 5c049581729cfb8ba5914a3d1632b9c78cee0f41
+
